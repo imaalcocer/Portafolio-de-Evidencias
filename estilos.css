@@ -1,37 +1,37 @@
 .title {
-    color: #fff; /* Color del título */
+    color: #fff; 
   }
   tarjetas {
-    height: 700px; /* Establece la altura deseada para todas las tarjetas */
-    overflow: auto; /* Agrega desplazamiento si el contenido de la tarjeta excede la altura */
+    height: 700px; 
+    overflow: auto; 
   }
   
 body {
-    background-color: #0f4b86; /* Color de fondo */
+    background-color: #0f4b86; 
   }
   .card {
-    border: 1px solid #fcf801; /* Borde de las tarjetas */
-    border-radius: 10px; /* Bordes redondeados */
-    background-color: #fff; /* Color de fondo de las tarjetas */
+    border: 1px solid #fcf801; 
+    border-radius: 10px; 
+    background-color: #fff; 
   }
   .card-header {
-    border-bottom: 1px solid #fcf801; /* Borde inferior del encabezado de la tarjeta */
-    background-color: #007bff; /* Color de fondo del encabezado de la tarjeta */
-    padding: 10px; /* Espaciado interno del encabezado de la tarjeta */
+    border-bottom: 1px solid #fcf801; 
+    background-color: #007bff; 
+    padding: 10px; 
   }
   .card-title {
-    color: #fff; /* Color del título */
+    color: #fff; 
   }
   .card-text {
-    color: #6c757d; /* Color del texto */
+    color: #6c757d; 
   }
   .btn-primary {
-    background-color: #007bff; /* Color de fondo del botón */
-    border-color: #007bff; /* Color del borde del botón */
+    background-color: #007bff; 
+    border-color: #007bff; 
   }
   .btn-primary:hover {
-    background-color: #fceb07; /* Color de fondo del botón al pasar el ratón */
-    border-color: #0056b3; /* Color del borde del botón al pasar el ratón */
+    background-color: #fceb07; 
+    border-color: #0056b3; 
   }
   
   
